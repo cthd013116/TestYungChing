@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\TestYungChing\\TestYungChing\\TestYungChing\\TestYungChing.csproj": {}
+    "C:\\Git\\TestYungChing\\TestYungChing\\TestYungChing.csproj": {}
   },
   "projects": {
-    "C:\\Git\\TestYungChing\\TestYungChing\\TestYungChing\\TestYungChing.csproj": {
+    "C:\\Git\\TestYungChing\\TestYungChing\\TestYungChing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\TestYungChing\\TestYungChing\\TestYungChing\\TestYungChing.csproj",
+        "projectUniqueName": "C:\\Git\\TestYungChing\\TestYungChing\\TestYungChing.csproj",
         "projectName": "TestYungChing",
-        "projectPath": "C:\\Git\\TestYungChing\\TestYungChing\\TestYungChing\\TestYungChing.csproj",
+        "projectPath": "C:\\Git\\TestYungChing\\TestYungChing\\TestYungChing.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\TestYungChing\\TestYungChing\\TestYungChing\\obj\\",
+        "outputPath": "C:\\Git\\TestYungChing\\TestYungChing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
