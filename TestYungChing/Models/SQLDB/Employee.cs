@@ -3,26 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace TestYungChing.Models.API
+namespace TestYungChing.Models.SQLDB
 {
-   /// <summary>
-   /// 取得資料
-   /// </summary>
-    public class Get
+    public class Employee
     {
+      
         /// <summary>
         /// 員工編號
         /// </summary>
-        public string _EmpId { get; set; }
+        public string EmpId { get; set; }
 
         /// <summary>
         /// 員工姓名
         /// </summary>
-        public string _EmpName { get; set; }
+        public string EmpName { get; set; }
 
         /// <summary>
         /// 員工生日
         /// </summary>
-        public string _EmpBirth { get; set; }
+        public string EmpBirth { get; set; }
     }
 }
